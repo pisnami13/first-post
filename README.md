@@ -1,5 +1,4 @@
-<meta http-equiv="refresh" content="0;url=http://www.natural-environment.com/"/>
-<a href="https://google.com/">google</a>
+<link rel="canonical" href="https://google.com/">
 
 ## Welcome to GitHub Pages
 
